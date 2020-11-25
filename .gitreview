@@ -1,5 +1,5 @@
 [gerrit]
 host=review.calyxos.org
 port=29418
-project=CalyxOS/calyx-fdroid-repo
+project=CalyxOS/calyx-fdroid-repo-sargo
 defaultbranch=master
